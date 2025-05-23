@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Team Meeting",
+    "date": "2025-05-22",
+    "time": "10:00",
+    "duration": 60
+  },
+  {
+    "id": 2,
+    "title": "Project Presentation",
+    "date": "2025-05-22",
+    "time": "10:30",
+    "duration": 30
+  },
+  {
+    "id": 3,
+    "title": "Client Call",
+    "date": "2025-05-25",
+    "time": "15:00",
+    "duration": 45
+  },
+  {
+    "id": 4,
+    "title": "Design Review",
+    "date": "2025-05-23",
+    "time": "09:00",
+    "duration": 90
+  },
+  {
+    "id": 5,
+    "title": "Marketing Meeting",
+    "date": "2025-05-24",
+    "time": "11:00",
+    "duration": 60
+  },
+  {
+    "id": 6,
+    "title": "Product Launch",
+    "date": "2025-05-26",
+    "time": "14:00",
+    "duration": 120
+  },
+  {
+    "id": 7,
+    "title": "One-on-One",
+    "date": "2025-05-27",
+    "time": "16:00",
+    "duration": 30
+  },
+  {
+    "id": 8,
+    "title": "Sprint Planning",
+    "date": "2025-05-28",
+    "time": "10:00",
+    "duration": 60
+  },
+  {
+    "id": 9,
+    "title": "Code Review",
+    "date": "2025-05-29",
+    "time": "13:00",
+    "duration": 45
+  },
+  {
+    "id": 10,
+    "title": "Customer Feedback",
+    "date": "2025-05-30",
+    "time": "15:30",
+    "duration": 60
+  }
+]

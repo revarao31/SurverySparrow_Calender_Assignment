@@ -1,0 +1,38 @@
+.event-list {
+  padding: 24px;
+  background-color: #f8f9fa;
+  flex: 2;
+  overflow-y: auto;
+}
+
+.event-list-header {
+  margin-bottom: 24px;
+}
+
+.event-list-header h2 {
+  margin: 0 0 8px 0;
+  font-size: 20px;
+  font-weight: 500;
+  color: #202124;
+}
+
+.no-events {
+  color: #5f6368;
+  font-style: italic;
+}
+
+.event-items {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+@media (max-width: 767px) {
+  .event-list {
+    padding: 16px;
+  }
+  
+  .event-list-header h2 {
+    font-size: 18px;
+  }
+}
