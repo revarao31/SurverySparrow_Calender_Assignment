@@ -24,7 +24,7 @@ export const CalendarProvider = ({ children }) => {
 
   // Load events from JSON file
   useEffect(() => {
-    fetch('/src/data/events.json')
+    fetch('/events.json')
       .then(response => response.json())
       .then(data => setEvents(data))
       .catch(error => {
