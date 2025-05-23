@@ -14,6 +14,13 @@
     "duration": 30
   },
   {
+    "id": 2,
+    "title": "New Meeting",
+    "date": "2025-06-23",
+    "time": "10:30",
+    "duration": 30
+  },
+  {
     "id": 3,
     "title": "Client Call",
     "date": "2025-05-25",
